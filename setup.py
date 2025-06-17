@@ -8,7 +8,7 @@ setup(
     description="High-performance CPU utilities for AI training and parallel computation",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/LaserRay1234/IntellectUtils",
+    url="https://github.com/Messi10-12345/IntellectUtils",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
