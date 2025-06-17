@@ -1,4 +1,4 @@
-# IntellectUtils
+# IntellectUtils 0.1.0 BETA
 
 **🚀 IntellectUtils** is a high-performance Python utility library built to **accelerate AI workloads on CPU**.  
 Designed by **ARCX Studios** and the **Intellect** team — led by [Rayhan Aman](https://github.com/rayhanAman) and [Cooper Johnson](https://github.com/) — this toolkit simplifies and supercharges training, preprocessing, and inference on machines without powerful GPUs.
