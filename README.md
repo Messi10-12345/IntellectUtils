@@ -26,7 +26,7 @@ Designed by **ARCX Studios** and the **Intellect** team — led by [Rayhan Aman]
 
 git clone https://github.com/LaserRay1234/IntellectUtils
 cd IntellectUtils
-pip install .
+pip install intellectutils
 
 1. JIT Acceleration with Numba
 
